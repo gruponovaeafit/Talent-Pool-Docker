@@ -1,0 +1,11 @@
+{% extends 'app.html' %}
+
+{% block title %} {{ template_data.title }} {% endblock %}
+
+{% block content %}
+<div class="text-center mx-auto">
+  <h1>Hotel Suite</h1>
+  <p class="lead">Welcome to Hotel Suite, the best hotel in the world!</p>
+  <a class="btn btn-primary" href="{% url 'rooms.index' %}">View Rooms</a>
+</div>
+{% endblock %}
