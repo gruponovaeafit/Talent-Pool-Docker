@@ -1,6 +1,32 @@
 # Talent Pool Docker
 
-### Instalación de Docker
+## Intalación de Docker Desktop en Windows
+
+[Está explicado en este link](https://docs.docker.com/desktop/install/windows-install/)
+
+## Instalación de Docker Desktop en Mac
+
+[Está explicado en este link](https://docs.docker.com/desktop/install/mac-install/)
+
+## Instalación de Docker en Linux
+
+### Instalación de Docker en Ubuntu
+
+[Está explicado en este link](https://docs.docker.com/desktop/install/ubuntu/)
+
+### Instalación de Docker en Debian
+
+[Está explicado en este link](https://docs.docker.com/desktop/install/debian/)
+
+### Instalación de Docker en Fedora
+
+[Está explicado en este link](https://docs.docker.com/desktop/install/fedora/)
+
+### Instalación de Docker en Arch
+
+[Está explicado en este link](https://docs.docker.com/desktop/install/arch/)
+
+## Instalación de Docker en Ubuntu 22.04
 
 Para instalar Docker en la instancia de Ubuntu, se deben seguir los siguientes pasos:
 
